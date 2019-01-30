@@ -3,6 +3,7 @@
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
   - [What happens when you click on play in Netflix?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+  - [How Chrome browser works?](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
