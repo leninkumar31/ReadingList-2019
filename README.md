@@ -5,7 +5,7 @@
   - [What happens when you click on play in Netflix?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
   - [How Chrome browser works?](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Concise explanation of what happens when you type in url and enter?](https://wsvincent.com/what-happens-when-url/)
-  - [What happens when](https://github.com/alex/what-happens-when#tls-handshake)
+  - [What happens when you type google.com into your browser's address box and press enter in detail?](https://github.com/alex/what-happens-when#tls-handshake)
 
 ### Reinforcement Learning
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
