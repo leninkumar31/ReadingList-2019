@@ -7,7 +7,6 @@
   - [YOLO - Joseph Redmon](https://pjreddie.com/)
   - [lilianweng's blog](https://lilianweng.github.io/lil-log/)
   - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
-  - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
 
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
@@ -18,6 +17,7 @@
 
 ### Reinforcement Learning
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
+  - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
 
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
