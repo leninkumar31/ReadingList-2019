@@ -23,6 +23,9 @@
 ### Self Help
   - [How to ask good questions?](https://jvns.ca/blog/good-questions/)
   - [Stop learning frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+
+### Development
+  - [Chrome Extension Examples](https://github.com/orbitbot/chrome-extensions-examples)
   
 ### Awesome links
   - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
