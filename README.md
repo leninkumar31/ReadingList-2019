@@ -3,6 +3,9 @@
 ### Machine learning related blogs
   - [SpinningUp in Deep RL](https://spinningup.openai.com/en/latest/index.html)
   - [Deep Learning By Michael Nielsen](http://neuralnetworksanddeeplearning.com)
+  - [Arthur Juliani](https://medium.com/@awjuliani)
+  - [YOLO - Joseph Redmon](https://pjreddie.com/)
+  - [lilianweng's blog](https://lilianweng.github.io/lil-log/)
   - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
   - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
 
