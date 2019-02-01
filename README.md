@@ -6,6 +6,9 @@
   - [How Chrome browser works?](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Concise explanation of what happens when you type in url and enter?](https://wsvincent.com/what-happens-when-url/)
 
+### Reinforcement Learning
+  - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
+
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
   
