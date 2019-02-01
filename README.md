@@ -1,5 +1,9 @@
 # ReadingList-2019
 
+### Machine learning related blogs
+  - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+  - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
+
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
   - [What happens when you click on play in Netflix?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
