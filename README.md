@@ -28,6 +28,7 @@
 
 ### Interesting issues
   - [Fixing internet for real time applications](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
+  - [The probability of data loss in large clusters](https://martin.kleppmann.com/2017/01/26/data-loss-in-large-clusters.html)
 
 ### Self Help
   - [How to ask good questions?](https://jvns.ca/blog/good-questions/)
