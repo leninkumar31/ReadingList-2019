@@ -21,6 +21,7 @@
 
 ### Distributed Systems
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
+  - [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
 
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
