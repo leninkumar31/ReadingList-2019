@@ -41,7 +41,8 @@
 ### Development
   - [Chrome Extension Examples](https://github.com/orbitbot/chrome-extensions-examples)
   
-### Awesome links
+### Interesting Blogs
   - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
   - [Professional Programming](https://github.com/charlax/professional-programming)
-  - [Awesome articles](https://gerardnico.com/start)
+  - [Gerardnico](https://gerardnico.com/start)
+  - [Martin Kleppmann ](https://martin.kleppmann.com/)
