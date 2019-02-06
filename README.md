@@ -9,6 +9,9 @@
   - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
   - [The Gradient](https://thegradient.pub/)
 
+### Research Paper summaries
+  - [Patrick Emami](https://pemami4911.github.io/paper-summaries/)
+
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
   - [What happens when you click on play in Netflix?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
