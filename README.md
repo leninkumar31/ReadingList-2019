@@ -7,6 +7,7 @@
   - [YOLO - Joseph Redmon](https://pjreddie.com/)
   - [lilianweng's blog](https://lilianweng.github.io/lil-log/)
   - [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+  - [The Gradient](https://thegradient.pub/)
 
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
