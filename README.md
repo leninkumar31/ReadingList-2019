@@ -40,6 +40,9 @@
 
 ### Development
   - [Chrome Extension Examples](https://github.com/orbitbot/chrome-extensions-examples)
+
+### Hacking
+  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
   
 ### Interesting Blogs
   - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
