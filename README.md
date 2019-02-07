@@ -49,6 +49,9 @@
 
 ### Hacking
   - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+ 
+### Awesome SLAM
+  - [Awesome SLAM](https://github.com/kanster/awesome-slam)
   
 ### Interesting Blogs
   - [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
