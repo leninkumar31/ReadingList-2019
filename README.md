@@ -11,6 +11,8 @@
 
 ### Research Paper summaries
   - [Patrick Emami](https://pemami4911.github.io/paper-summaries/)
+  - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
+  - [The morning paper](https://blog.acolyer.org/)
 
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
@@ -21,7 +23,7 @@
 
 ### Reinforcement Learning
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
-  - [Survey of Multiagent Reinforcement Learning](https://agakshat.github.io/paper-summary/Survey-MARL-08/)
+  - [Understanding identifiability in Dueling Network paper](https://ai.stackexchange.com/questions/8128/difficulty-in-understanding-identifiability-in-dueling-network-paper)
 
 ### Distributed Systems
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
