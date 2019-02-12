@@ -26,6 +26,12 @@
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
   - [Understanding identifiability in Dueling Network paper](https://ai.stackexchange.com/questions/8128/difficulty-in-understanding-identifiability-in-dueling-network-paper)
 
+### Java
+  - [Double checked locking and Singleton Pattern](https://www.ibm.com/developerworks/java/library/j-dcl/index.html)
+  - [Singleton pattern](http://onjavahell.blogspot.com/2009/04/uses-of-singleton-design-pattern-in.html)
+  - [Volatile Keyword](https://www.javamex.com/tutorials/synchronization_volatile.shtml)
+  - [Synchronized Keyword](https://www.javamex.com/tutorials/synchronization_concurrency_synchronized1.shtml)
+
 ### Distributed Systems
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
   - [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
