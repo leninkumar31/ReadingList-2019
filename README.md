@@ -31,6 +31,7 @@
   - [Singleton pattern](http://onjavahell.blogspot.com/2009/04/uses-of-singleton-design-pattern-in.html)
   - [Volatile Keyword](https://www.javamex.com/tutorials/synchronization_volatile.shtml)
   - [Synchronized Keyword](https://www.javamex.com/tutorials/synchronization_concurrency_synchronized1.shtml)
+  - [Enums](https://dzone.com/articles/using-java-enums)
 
 ### Distributed Systems
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
