@@ -66,3 +66,5 @@
   - [Professional Programming](https://github.com/charlax/professional-programming)
   - [Gerardnico](https://gerardnico.com/start)
   - [Martin Kleppmann ](https://martin.kleppmann.com/)
+  - [Phil Sturgeon](https://philsturgeon.uk/)
+  - [APIs you won't hate](https://blog.apisyouwonthate.com/)
