@@ -33,6 +33,10 @@
   - [Synchronized Keyword](https://www.javamex.com/tutorials/synchronization_concurrency_synchronized1.shtml)
   - [Enums](https://dzone.com/articles/using-java-enums)
   - [Singleton using Enum](https://dzone.com/articles/java-singletons-using-enum)
+  
+### Protocol Buffers
+  - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
+  - [Protocol buffer with java](https://dzone.com/articles/using-googles-protocol-buffers-with-java)
 
 ### Distributed Systems
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
