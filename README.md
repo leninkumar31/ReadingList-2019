@@ -36,6 +36,7 @@
   - [Builder Pattern](https://jlordiales.me/2012/12/13/the-builder-pattern-in-practice/)
   - [Nested classes](https://www.geeksforgeeks.org/nested-classes-java/)
   - [Constructors](https://beginnersbook.com/2013/03/constructors-in-java/)
+  - [Static Factory Methods](https://jlordiales.me/2012/12/26/static-factory-methods-vs-traditional-constructors/)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
