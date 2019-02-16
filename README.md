@@ -33,6 +33,9 @@
   - [Synchronized Keyword](https://www.javamex.com/tutorials/synchronization_concurrency_synchronized1.shtml)
   - [Enums](https://dzone.com/articles/using-java-enums)
   - [Singleton using Enum](https://dzone.com/articles/java-singletons-using-enum)
+  - [Builder Pattern](https://jlordiales.me/2012/12/13/the-builder-pattern-in-practice/)
+  - [Nested classes](https://www.geeksforgeeks.org/nested-classes-java/)
+  - [Constructors](https://beginnersbook.com/2013/03/constructors-in-java/)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
