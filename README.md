@@ -37,6 +37,7 @@
   - [Nested classes](https://www.geeksforgeeks.org/nested-classes-java/)
   - [Constructors](https://beginnersbook.com/2013/03/constructors-in-java/)
   - [Static Factory Methods](https://jlordiales.me/2012/12/26/static-factory-methods-vs-traditional-constructors/)
+  - [Immutability in Java](https://jlordiales.me/2012/12/24/the-ins-and-outs-of-immutability/)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
