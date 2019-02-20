@@ -39,6 +39,9 @@
   - [Constructors](https://beginnersbook.com/2013/03/constructors-in-java/)
   - [Static Factory Methods](https://jlordiales.me/2012/12/26/static-factory-methods-vs-traditional-constructors/)
   - [Immutability in Java](https://jlordiales.me/2012/12/24/the-ins-and-outs-of-immutability/)
+  - [Dependency Injection](https://www.journaldev.com/2394/java-dependency-injection-design-pattern-example-tutorial)
+  - [Anonymous class](https://www.journaldev.com/12534/java-anonymous-class)
+  - [S.O.L.I.D](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-single-responsibility-principle)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
