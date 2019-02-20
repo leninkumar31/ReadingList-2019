@@ -84,3 +84,4 @@
   - [Phil Sturgeon](https://philsturgeon.uk/)
   - [APIs you won't hate](https://blog.apisyouwonthate.com/)
   - [Awesome](https://github.com/sindresorhus/awesome#readme)
+  - [Python](https://automatetheboringstuff.com/)
