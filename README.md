@@ -67,6 +67,9 @@
   - [How to ask good questions?](https://jvns.ca/blog/good-questions/)
   - [Stop learning frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 
+### Novels
+  - [Girl on the train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train)
+
 ### Development
   - [Chrome Extension Examples](https://github.com/orbitbot/chrome-extensions-examples)
 
