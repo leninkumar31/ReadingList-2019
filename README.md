@@ -29,6 +29,7 @@
   - [S.O.L.I.D](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-single-responsibility-principle)
   - [Encapsulation is not information hiding](https://www.javaworld.com/article/2075271/core-java/encapsulation-is-not-information-hiding.html)
   - [Caching for Java](https://dzone.com/articles/inroducing-caching-java-applic)
+  - [Develop a generic caching service to improve performance](https://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
