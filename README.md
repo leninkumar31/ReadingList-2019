@@ -50,6 +50,9 @@
 ### Design
   - [Tiny URL](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
   - [Design a cache system](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
+  
+### Caching
+  - [High-Throughput, Thread-Safe, LRU Caching](https://www.ebayinc.com/stories/blogs/tech/high-throughput-thread-safe-lru-caching/)
 
 ### Interesting issues
   - [Fixing internet for real time applications](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
