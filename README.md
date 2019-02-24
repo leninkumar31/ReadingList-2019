@@ -60,6 +60,9 @@
   - [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14)
   - [MySQL vs MsSQL](https://www.upwork.com/hiring/data/sql-vs-mysql-which-relational-database-is-right-for-you/)
 
+### Design
+  - [Tiny URL](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
+
 ### Interesting issues
   - [Fixing internet for real time applications](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
   - [The probability of data loss in large clusters](https://martin.kleppmann.com/2017/01/26/data-loss-in-large-clusters.html)
