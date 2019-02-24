@@ -43,6 +43,7 @@
   - [Anonymous class](https://www.journaldev.com/12534/java-anonymous-class)
   - [S.O.L.I.D](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-single-responsibility-principle)
   - [Encapsulation is not information hiding](https://www.javaworld.com/article/2075271/core-java/encapsulation-is-not-information-hiding.html)
+  - [Caching for Java](https://dzone.com/articles/inroducing-caching-java-applic)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
@@ -62,6 +63,7 @@
 
 ### Design
   - [Tiny URL](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
+  - [Design a cache system](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
 
 ### Interesting issues
   - [Fixing internet for real time applications](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
