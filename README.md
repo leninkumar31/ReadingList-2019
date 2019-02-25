@@ -30,6 +30,7 @@
   - [Encapsulation is not information hiding](https://www.javaworld.com/article/2075271/core-java/encapsulation-is-not-information-hiding.html)
   - [Caching for Java](https://dzone.com/articles/inroducing-caching-java-applic)
   - [Develop a generic caching service to improve performance](https://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html)
+  - [Try with Resources](https://www.journaldev.com/592/java-try-with-resources)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
