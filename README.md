@@ -31,6 +31,7 @@
   - [Caching for Java](https://dzone.com/articles/inroducing-caching-java-applic)
   - [Develop a generic caching service to improve performance](https://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html)
   - [Try with Resources](https://www.journaldev.com/592/java-try-with-resources)
+  - [Finalize in Java](https://www.baeldung.com/java-finalize)
   
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
