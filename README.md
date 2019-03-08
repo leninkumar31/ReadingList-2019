@@ -42,6 +42,9 @@
   - [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
   - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
+### Computer Networks
+  - [Let's Build HTTP Server](https://ruslanspivak.com/lsbaws-part1/)
+
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
   
@@ -66,4 +69,5 @@
 
 ### Novels
   - [Girl on the train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train)
+  - [The Murder of Roger Ackroyd](https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd)
 
