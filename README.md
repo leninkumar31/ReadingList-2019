@@ -11,6 +11,15 @@
 ### Reinforcement Learning
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
   - [Understanding identifiability in Dueling Network paper](https://ai.stackexchange.com/questions/8128/difficulty-in-understanding-identifiability-in-dueling-network-paper)
+  - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+
+### Research papers
+  - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+  - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)
+  - [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+  - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+  - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+  - [Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf)
 
 ### Java
   - [Double checked locking and Singleton Pattern](https://www.ibm.com/developerworks/java/library/j-dcl/index.html)
@@ -58,6 +67,13 @@
   
 ### Caching
   - [High-Throughput, Thread-Safe, LRU Caching](https://www.ebayinc.com/stories/blogs/tech/high-throughput-thread-safe-lru-caching/)
+  
+### Math
+  - [Simulating a Biased Coin with a Fair Coin](https://jeremykun.com/2014/02/12/simulating-a-biased-coin-with-a-fair-coin/)
+  - [Detailed explanation for Simulating a Biased Coin with a Fair Coin](https://www.alexirpan.com/2015/08/23/simulating-a-biased-coin-with-a-fair-one.html)
+
+### Raspberry PI
+  - [TensorFlow Object Detection API on the Raspberry Pi](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi/blob/master/README.md)
 
 ### Interesting issues
   - [Fixing internet for real time applications](https://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-i)
