@@ -12,6 +12,11 @@
   - [Prioritized Replay, what does Importance Sampling really do?](https://datascience.stackexchange.com/questions/32873/prioritized-replay-what-does-importance-sampling-really-do)
   - [Understanding identifiability in Dueling Network paper](https://ai.stackexchange.com/questions/8128/difficulty-in-understanding-identifiability-in-dueling-network-paper)
   - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+  
+### Computer Vision
+  - [HOG](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+  - [Object Detection for Dummies Part 1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
+  - []()
 
 ### Research papers
   - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
