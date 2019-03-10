@@ -16,7 +16,8 @@
 ### Computer Vision
   - [HOG](https://www.learnopencv.com/histogram-of-oriented-gradients/)
   - [Object Detection for Dummies Part 1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
-  - []()
+  - [Selective Search By OpenCV](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)
+  - [Selective Search by Arthur Douillard](https://arthurdouillard.com/post/selective-search/)
 
 ### Research papers
   - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
