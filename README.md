@@ -19,6 +19,9 @@
   - [Selective Search By OpenCV](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)
   - [Selective Search by Arthur Douillard](https://arthurdouillard.com/post/selective-search/)
   - [A guide to convolution arithmetic for deeplearning](https://arxiv.org/pdf/1603.07285.pdf)
+  - [mAP (mean Average Precision) for Object Detection](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173)
+  - [Measuring Object Detection models - mAP - What is Mean Average Precision?](https://tarangshah.com/blog/2018-01-27/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models/)
+  - [Understanding the mAP Evaluation Metric for Object Detection](https://medium.com/@timothycarlen/understanding-the-map-evaluation-metric-for-object-detection-a07fe6962cf3)
 
 ### Research papers
   - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
