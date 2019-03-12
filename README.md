@@ -55,6 +55,9 @@
   - [Try with Resources](https://www.journaldev.com/592/java-try-with-resources)
   - [Finalize in Java](https://www.baeldung.com/java-finalize)
   
+### Spring
+  - [Aspect Oriented Programming](https://medium.com/@mithunsasidharan/aspect-oriented-programming-overview-6c03235e666a)
+  
 ### Protocol Buffers
   - [Protocol Buffer Basics](https://developers.google.com/protocol-buffers/docs/javatutorial)
   - [Protocol buffer with java](https://dzone.com/articles/using-googles-protocol-buffers-with-java)
