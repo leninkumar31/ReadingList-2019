@@ -1,5 +1,8 @@
 # ReadingList-2019
 
+### Definitions
+  - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+
 ### How Stuff works?
   - [How Full Text search engine works?](http://www.ideaeng.com/database-full-text-search-0201)
   - [What happens when you click on play in Netflix?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
