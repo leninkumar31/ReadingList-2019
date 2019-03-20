@@ -69,6 +69,9 @@
 
 ### Computer Networks
   - [Let's Build HTTP Server](https://ruslanspivak.com/lsbaws-part1/)
+  
+### Computer Architecture
+  - [CPU Basics: Multiple CPUs, Cores, and Hyper-Threading Explained](https://www.howtogeek.com/194756/cpu-basics-multiple-cpus-cores-and-hyper-threading-explained/)
 
 ### Content Delivery Networks
   - [CDNs are not for caching](https://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/)
