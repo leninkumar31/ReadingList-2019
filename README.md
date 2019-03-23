@@ -34,6 +34,9 @@
   - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
   - [Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf)
 
+### Data Structures
+  - [B-Trees](http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm)
+  
 ### Java
   - [Double checked locking and Singleton Pattern](https://www.ibm.com/developerworks/java/library/j-dcl/index.html)
   - [Singleton pattern](http://onjavahell.blogspot.com/2009/04/uses-of-singleton-design-pattern-in.html)
@@ -105,4 +108,5 @@
 ### Novels
   - [Girl on the train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train)
   - [The Murder of Roger Ackroyd](https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd)
+  - [The Kite Runner](https://www.goodreads.com/book/show/77203.The_Kite_Runner)
 
