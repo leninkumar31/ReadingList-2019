@@ -86,6 +86,7 @@
 ### Design
   - [Tiny URL](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
   - [Design a cache system](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
+  - [Scalability for dummies](https://www.lecloud.net/tagged/scalability)
   
 ### Caching
   - [High-Throughput, Thread-Safe, LRU Caching](https://www.ebayinc.com/stories/blogs/tech/high-throughput-thread-safe-lru-caching/)
@@ -93,6 +94,7 @@
 ### Math
   - [Simulating a Biased Coin with a Fair Coin](https://jeremykun.com/2014/02/12/simulating-a-biased-coin-with-a-fair-coin/)
   - [Detailed explanation for Simulating a Biased Coin with a Fair Coin](https://www.alexirpan.com/2015/08/23/simulating-a-biased-coin-with-a-fair-one.html)
+  - [Multiplicative functions and Mobius inversion theorem](https://math.berkeley.edu/~stankova/MathCircle/Multiplicative.pdf)
 
 ### Raspberry PI
   - [TensorFlow Object Detection API on the Raspberry Pi](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi/blob/master/README.md)
@@ -109,4 +111,7 @@
   - [Girl on the train](https://www.goodreads.com/book/show/22557272-the-girl-on-the-train)
   - [The Murder of Roger Ackroyd](https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd)
   - [The Kite Runner](https://www.goodreads.com/book/show/77203.The_Kite_Runner)
+  - [Atlas shrugged](https://www.goodreads.com/book/show/662.Atlas_Shrugged)
+  - [A Clash of kings](https://www.goodreads.com/book/show/10572.A_Clash_of_Kings)
+  - [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens)
 
