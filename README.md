@@ -69,6 +69,15 @@
   - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
   - [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
   - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+  
+### Consistent Hashing
+  - [Video](https://www.youtube.com/watch?v=zaRkONvyGr8&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=4)
+  - [Michael nealson](http://michaelnielsen.org/blog/consistent-hashing/)
+  - [Tom White](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+
+### Message Queues
+  - [The Database As Queue Anti-Pattern](http://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html)
+  - [5 Subtle Ways You’re Using MySQL as a Queue, and Why It’ll Bite You](https://www.xaprb.com/blog/2011/09/15/5-subtle-ways-youre-using-mysql-as-a-queue-and-why-itll-bite-you/)
 
 ### Computer Networks
   - [Let's Build HTTP Server](https://ruslanspivak.com/lsbaws-part1/)
