@@ -78,6 +78,8 @@
 ### Message Queues
   - [The Database As Queue Anti-Pattern](http://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html)
   - [5 Subtle Ways You’re Using MySQL as a Queue, and Why It’ll Bite You](https://www.xaprb.com/blog/2011/09/15/5-subtle-ways-youre-using-mysql-as-a-queue-and-why-itll-bite-you/)
+  - [Database is not a queue](https://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/)
+  - [Developers Need to Understand Message Queues](http://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/)
 
 ### Computer Networks
   - [Let's Build HTTP Server](https://ruslanspivak.com/lsbaws-part1/)
