@@ -101,6 +101,10 @@
   - [Design a cache system](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
   - [Scalability for dummies](https://www.lecloud.net/tagged/scalability)
   
+### Microservices
+  - [Monolithic vs. Microservices Architecture](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
+  - [Should you always start with a monolith?](https://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith)
+  
 ### Caching
   - [High-Throughput, Thread-Safe, LRU Caching](https://www.ebayinc.com/stories/blogs/tech/high-throughput-thread-safe-lru-caching/)
   
