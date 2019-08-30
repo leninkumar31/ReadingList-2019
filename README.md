@@ -100,6 +100,7 @@
   - [Tiny URL](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
   - [Design a cache system](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
   - [Scalability for dummies](https://www.lecloud.net/tagged/scalability)
+  - [Scalable System Design Patterns ](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
   
 ### Microservices
   - [Monolithic vs. Microservices Architecture](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
